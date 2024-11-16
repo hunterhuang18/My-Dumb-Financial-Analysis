@@ -3,6 +3,6 @@ Struggling in finding a job, accumulating experiences from some basic financial 
 
 ## 1. Return and Risk
 This part includes some basic knowledge :
-*  How to calculate return and risk for individual asset
+*  How to calculate expected return and risk for individual asset
 *  Relationship between individual asset and market portfolio (beta)
 *  How to calculate return and risk for portfolio, and find the optimal weights given specific return or minimum variance constraint
